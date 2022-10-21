@@ -3,7 +3,7 @@ Stock Market Analysis means analyzing the current and historical trends in the s
 
 
 # Data Used:
-- For SWVL Company
+- SWVL Company 
 
 
 # API:
